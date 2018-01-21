@@ -1,7 +1,7 @@
 function colorMoveDot(direction,max) {
   var count = 0
   while (count < max) {
-    setColor('black')
+    setColor("black")
     direction
     count = count + 1
   }
