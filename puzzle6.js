@@ -1,7 +1,7 @@
 right
 
 function move2 {
-  if (getColor == blue) {
+  if (getColor == "blue") {
     right
   }
   else {
@@ -10,7 +10,7 @@ function move2 {
 }
 
 
-if (getColor == blue) {
+if (getColor == "blue") {
   down
   down
   down
