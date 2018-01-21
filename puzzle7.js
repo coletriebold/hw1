@@ -1,11 +1,11 @@
 function dotDown {
-  while (getColor != red) {
+  while (getColor != "red") {
     down
   }
 }
 
 function dotUp {
-  while (getColor != red) {
+  while (getColor != "red") {
     up
   }
 }
