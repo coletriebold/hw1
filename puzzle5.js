@@ -1,7 +1,7 @@
 function dotShift {
   right
   right
-  if (getColor == red) {
+  if (getColor == "red") {
     up
   }
   else {
